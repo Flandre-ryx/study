@@ -1,1 +1,0 @@
-将typora-pictures文件夹放在D盘下
