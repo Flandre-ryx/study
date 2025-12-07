@@ -1,1 +1,1 @@
-将typora-pictures文件夹放在D盘下
+将typora-pictures文件夹放在D盘下(已改为相对路径)
